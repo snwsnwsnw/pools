@@ -127,4 +127,15 @@
 	"url":"whale-asia.hpool.net",
         "notify":""
     }
+    {  
+	"name":"GPUMine",
+	"stats":"http://whale.gpumine.org/api/stats",
+	"blocks":"http://whale.gpumine.org/api/blocks",
+	"payments":"http://whale.gpumine.org/api/payments",
+	"accounts":"http://whale.gpumine.org/api/accounts",
+  	"miners":"http://whale.gpumine.org/api/miners",
+	"url":"whale.gpumine.org",
+        "notify":""
+    }
+	
 ]
